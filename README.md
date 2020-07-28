@@ -10,11 +10,11 @@ QMoney is a visual stock portfolio analyzer. It helps portfolio managers make tr
 
 During this Micro-Experience, I:
 
-Implemented the core logic of the portfolio manager and published it as a library.
+    Implemented the core logic of the portfolio manager and published it as a library.
 
-Refactored code to add support for multiple stock quote services.
+    Refactored code to add support for multiple stock quote services.
 
-Improved application stability and performance.
+    Improved application stability and performance.
 
 QMoney Architecture
 
