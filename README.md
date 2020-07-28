@@ -16,15 +16,13 @@ Refactored code to add support for multiple stock quote services.
 
 Improved application stability and performance.
 
-
 QMoney Architecture
 
 Basic Concept Image
-
+![image-0](https://user-images.githubusercontent.com/52848980/88689485-25186f00-d118-11ea-843e-419ec933dd9e.png)
 
 QMoney Portfolio Manager Interface
 
-Basic Concept Image
 
 QMoney Modules
 
