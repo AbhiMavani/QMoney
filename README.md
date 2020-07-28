@@ -22,7 +22,7 @@ Basic Concept Image
 ![image-0](https://user-images.githubusercontent.com/52848980/88689485-25186f00-d118-11ea-843e-419ec933dd9e.png)
 
 QMoney Portfolio Manager Interface
-
+![image-1](https://user-images.githubusercontent.com/52848980/88689846-9eb05d00-d118-11ea-9ff5-0548249e2807.png)
 
 QMoney Modules
 
