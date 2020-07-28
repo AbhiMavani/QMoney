@@ -15,6 +15,8 @@ Implemented the core logic of the portfolio manager and published it as a librar
 Refactored code to add support for multiple stock quote services.
 
 Improved application stability and performance.
+
+
 QMoney Architecture
 
 Basic Concept Image
